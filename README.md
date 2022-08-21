@@ -1,5 +1,7 @@
 ### Uepa 👋
 
+
+- 🐱‍💻 Ethical Hacker
 - 🔗 Blockchain Developer
 - 🌱 Estudando  Solidity, Web3 e Dapps
 - 🤝 chama para um projeto
