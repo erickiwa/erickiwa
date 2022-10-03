@@ -7,7 +7,7 @@
 - 🤝 chama para um projeto
 
 <div align="center" style="display: inline_block">
-  <a href="https://www.linkedin.com/in/erick-iwanami-962024185/"  >
+  <a href="https://www.linkedin.com/in/erick-iwanami/"  >
     <img height="80" widith="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
   </a>
 </div>
