@@ -1,10 +1,9 @@
 ### Uepa 👋
 
 
-- 🐱‍💻 Ethical Hacker
-- 🔗 Blockchain Developer
-- 🌱 Estudando  Solidity, Web3 e Dapps
-- 🤝 chama para um projeto
+- 🐱‍💻 Security Researcher
+- 🔗 Backend Developer
+- 🌱 Learning Python, Js, databases... 
 
 <div align="center" style="display: inline_block">
   <a href="https://www.linkedin.com/in/erick-iwanami/"  >
